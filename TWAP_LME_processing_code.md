@@ -1,4 +1,4 @@
-# TWAP LME (Greater Caribbean version) SQL processing code
+# TWAP LME SQL processing code (Greater Caribbean version, actually!)
 Emilio Mayorga, University of Washington
 - http://staff.washington.edu/emiliom/
 - http://apl.uw.edu/people/profile.php?last_name=Mayorga&first_name=Emilio
