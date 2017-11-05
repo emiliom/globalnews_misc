@@ -1,6 +1,11 @@
 # TWAP LME (Greater Caribbean version) SQL processing code
+Emilio Mayorga, University of Washington
+- http://staff.washington.edu/emiliom/
+- http://apl.uw.edu/people/profile.php?last_name=Mayorga&first_name=Emilio
+- https://github.com/emiliom/
 
-11/5/2017. Work in progress, specially in terms of documentation!
+
+11/5/2017. Work in progress, specially in terms of documentation! 
 
 ## 1. Table lme.caribt33_stn30basin
 Description: Mapping of STN30 NEWS2 basins to TR33 Greater Caribbean (sub)regions (Subregions_TR33.shp), originally performed in QGIS based on attribute queries guided and validated by visual inspection. 2017-6-4
